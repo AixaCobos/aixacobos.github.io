@@ -1,0 +1,22 @@
+
+.carousel-inner {
+    background-color: pink !important;
+    }
+
+    body {background-color: rgb(170, 15, 67); }
+
+    body {
+        background-image: url("fondo.png");
+      }
+      
+      
+      
+      h1 {text-align: center}
+      h1 {text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
+          0 0 0.2em #87F}
+      
+      h2 {color: rgb(68, 14, 46);}
+      
+      h3 {color: blueviolet;}
+      h3 {text-shadow: 0.1em 0.1em rgb(5, 0, 0)}
+      
